@@ -12,6 +12,7 @@ env:
   WEBAPP-NAME: az400-webapp-Sergiu
 
 
+
 jobs:
   #Build, test and publish .net web project in repository
   buildandtest:
