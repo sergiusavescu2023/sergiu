@@ -9,7 +9,7 @@ env:
   LOCATION: westeurope
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: 4fd5d622-472c-4ea7-9252-66fc4c5e8f69
-  WEBAPP-NAME: webapp-Sergiu
+  WEBAPP-NAME: az400-webapp-Sergiu
 
 
 jobs:
