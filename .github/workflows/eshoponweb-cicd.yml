@@ -46,6 +46,7 @@ jobs:
         name: bicep-template
         path: ${{ env.TEMPLATE-FILE }}
         
+        
   # Use Bicep to deploy infrastructure + Publish webapp 
   deploy:
     runs-on: ubuntu-latest
